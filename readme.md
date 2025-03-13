@@ -1,6 +1,7 @@
 ## Olá sou a Mariana ☺️
 #### Quem sou?
 Desenvolvedora da empresa NexusTech 
+
 Realizando Curso Tecnico em Desenvolvimento de Sistemas no SENAI 
 <p align="center">
   <a href="https://github.com/Marinsc13">
