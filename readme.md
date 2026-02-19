@@ -1,6 +1,6 @@
 ## Olá sou a Mariana ☺️
 #### Quem sou?
-Desenvolvedora da empresa Coding Future
+Desenvolvedora 
 
 Realizando Curso Tecnico em Desenvolvimento de Sistemas no SENAI 
 <p align="center">
